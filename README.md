@@ -1,0 +1,2 @@
+# infogan
+infogan lasagne implementation
