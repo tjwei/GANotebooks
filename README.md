@@ -1,11 +1,11 @@
-# infogan
-infogan lasagne implementation
+# Generative Adversarial Notebooks
+## collection of My Generative Adversarial Network implementations
+
+Most codes are for python3, most notebooks works on CIFAR10
 
 
-Requires python3 lasagne/theano
+* wgan-keras: Wasserstein GAN  Keras implementation
+* wgan-lasagne: Wasserstein GAN Lasagne implementation
+* wgan2-lasagne-rmsprop:  improved WGAN but using rmsprop instead of ADAM
+* mnist-infogan-paper-uniform: INFOGAN Lasagne 
 
-
-Attempt to follows OpenAI's infogan setting. 
-
-
-Currently, the result is not stable.
