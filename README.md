@@ -10,6 +10,7 @@ Most codes are for python3, most notebooks works on CIFAR10
 
 ### WGAN2
 * wgan2-lasagne:  improved WGAN Lasagne implementation
+* wgan2-keras: improved WGAN Keras implementation
 
 ### InfoGAN 
 * mnist-infogan-paper-uniform: InfoGAN Lasagne on MNIST dataset
