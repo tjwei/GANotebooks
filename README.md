@@ -3,10 +3,14 @@
 
 Most codes are for python3, most notebooks works on CIFAR10
 
-
+### WGAN
 * wgan-keras: Wasserstein GAN  Keras implementation
 * wgan-lasagne: Wasserstein GAN Lasagne implementation
 * wgan-torch: Wasserstein GAN pytorch implementation based on https://github.com/martinarjovsky/WassersteinGAN
-* wgan2-lasagne:  improved WGAN Lasagne implementation 
-* mnist-infogan-paper-uniform: INFOGAN Lasagne on MNIST dataset
+
+### WGAN2
+* wgan2-lasagne:  improved WGAN Lasagne implementation
+
+### InfoGAN 
+* mnist-infogan-paper-uniform: InfoGAN Lasagne on MNIST dataset
 
