@@ -12,11 +12,14 @@ Most codes are for python3, most notebooks works on CIFAR10
 * wgan2-lasagne:  improved WGAN Lasagne implementation
 * wgan2-keras: improved WGAN Keras implementation
 * wgan2-lasagne-anime: WGAN on anime face images, lasagne
+### WGAN2 sample results
+<img src="img/wgan2-cifar10.png" height="400" />
+
 
 ### InfoGAN 
 * mnist-infogan: InfoGAN Lasagne on MNIST dataset
 * mnist-infogan-paper-uniform: InfoGAN Lasagne on MNIST dataset (fllowing the paper implementation)
-### InfoGan sample results
+### InfoGAN sample results
 <img src="img/infogan-mnist.png" height="400" />
 
 
