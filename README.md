@@ -14,7 +14,8 @@ Most codes are for python3, most notebooks works on CIFAR10
 * wgan2-lasagne-anime: WGAN on anime face images, lasagne
 
 ### InfoGAN 
-* mnist-infogan-paper-uniform: InfoGAN Lasagne on MNIST dataset
+* mnist-infogan: InfoGAN Lasagne on MNIST dataset
+* mnist-infogan-paper-uniform: InfoGAN Lasagne on MNIST dataset (fllowing the paper implementation)
 
 ### DCGAN
 dcgan-lasagne: DCGAN in Lasagne
