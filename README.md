@@ -13,7 +13,7 @@ Most codes are for python3, most notebooks works on CIFAR10
 * wgan2-keras: improved WGAN Keras implementation
 * wgan2-lasagne-anime: WGAN on anime face images, lasagne
 ### WGAN2 sample results
-<img src="img/wgan2-cifar10.png" height="400" />
+<img src="img/wgan2-cifar10.png" height="200" />
 
 
 ### InfoGAN 
