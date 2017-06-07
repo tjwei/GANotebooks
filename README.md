@@ -18,4 +18,6 @@ Most codes are for python3, most notebooks works on CIFAR10
 * mnist-infogan-paper-uniform: InfoGAN Lasagne on MNIST dataset (fllowing the paper implementation)
 
 ### DCGAN
-dcgan-lasagne: DCGAN in Lasagne
+* dcgan-lasagne: DCGAN in Lasagne
+### DCGAN results
+<img src="img/dcgan-cifar10.png" />
