@@ -20,12 +20,12 @@ Most codes are for python3, most notebooks works on CIFAR10
 
 * cifar10 dataset with Auxillary classfier
 
-<img src="img/wgan2-ac-cifar10.png" height="400" />
+<img src="img/wgan2-ac-cifar10.png" height="600" />
 
 
 * anime face dataset
 
-<img src="img/wgan2-anime.png" height="400" />
+<img src="img/wgan2-anime.png" height="600" />
 
 
 
