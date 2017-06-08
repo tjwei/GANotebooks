@@ -25,7 +25,7 @@ Most codes are for python3, most notebooks works on CIFAR10
 
 * anime face dataset
 
-<img src="img/wgan2-anime.png" height="600" />
+<img src="img/wgan2-anime.png" height="800" />
 
 
 
