@@ -14,14 +14,17 @@ Most codes are for python3, most notebooks works on CIFAR10
 * wgan2-lasagne-anime: WGAN on anime face images, lasagne
 * wgan2-AC-lasagne:  improved WGAN Lasagne implementation with Auxillary classfier
 ### WGAN2 sample results
-cifar10 dataset
+* cifar10 dataset
+
 <img src="img/wgan2-cifar10.png" height="200" />
 
-cifar10 dataset with Auxillary classfier
+* cifar10 dataset with Auxillary classfier
+
 <img src="img/wgan2-ac-cifar10.png" height="400" />
 
 
-anime face dataset
+* anime face dataset
+
 <img src="img/wgan2-anime.png" height="400" />
 
 
