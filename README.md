@@ -17,9 +17,8 @@ Most codes are for python3, most notebooks works on CIFAR10
 cifar10 dataset
 <img src="img/wgan2-cifar10.png" height="200" />
 
-
 cifar10 dataset with Auxillary classfier
-<img src="img/wgan2-ac-cifar10.png" height="200" />
+<img src="img/wgan2-ac-cifar10.png" height="400" />
 
 
 anime face dataset
