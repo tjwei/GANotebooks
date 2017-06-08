@@ -12,6 +12,7 @@ Most codes are for python3, most notebooks works on CIFAR10
 * wgan2-lasagne:  improved WGAN Lasagne implementation
 * wgan2-keras: improved WGAN Keras implementation
 * wgan2-lasagne-anime: WGAN on anime face images, lasagne
+* wgan2-AC-lasagne:  improved WGAN Lasagne implementation with Auxillary classfier
 ### WGAN2 sample results
 <img src="img/wgan2-cifar10.png" height="200" />
 
