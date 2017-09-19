@@ -1,17 +1,22 @@
 # Generative Adversarial Notebooks
 ## Collection of my Generative Adversarial Network implementations
 
-Most codes are for python3, most notebooks works on CIFAR10
+Most codes are for python3, most notebooks works on 
 
-### WGAN
+### pix2pix
+* pix2pix-keras: pix2pix GAN Keras implementation
+* pix2pix-lasagne: pix2pix GAN Lasagne implementation
+* pix2pix-torch: pix2pix GAN pytorch implementation
+
+### WGAN on CIFAR10
 * wgan-keras: Wasserstein GAN  Keras implementation
 * wgan-lasagne: Wasserstein GAN Lasagne implementation
 * wgan-torch: Wasserstein GAN pytorch implementation based on https://github.com/martinarjovsky/WassersteinGAN
 
 ### WGAN2 (improved WGAN/WGAN-gp)
-* wgan2-lasagne:  improved WGAN Lasagne implementation
-* wgan2-keras: improved WGAN Keras implementation
-* wgan2-lasagne-anime: WGAN on anime face images, lasagne
+* wgan2-lasagne:  improved WGAN Lasagne implementation (on CIFAR10)
+* wgan2-keras: improved WGAN Keras implementation (on CIFAR10)
+* wgan2-lasagne-anime: WGAN on anime face images, lasagne 
 * wgan2-AC-lasagne:  improved WGAN Lasagne implementation with Auxillary classfier
 ### WGAN2 sample results
 * cifar10 dataset
