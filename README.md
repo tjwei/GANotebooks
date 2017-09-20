@@ -8,6 +8,11 @@ Most codes are for python3, most notebooks works on
 * pix2pix-lasagne: pix2pix GAN Lasagne implementation
 * pix2pix-torch: pix2pix GAN pytorch implementation
 
+### pix2pix sample results
+<img src="img/pix2pix.png" height="200" />
+Validation result of edges-to-shoes after 12 epochs. From top to bottom: Input, Ground truth, the result.
+
+
 ### WGAN on CIFAR10
 * wgan-keras: Wasserstein GAN  Keras implementation
 * wgan-lasagne: Wasserstein GAN Lasagne implementation
