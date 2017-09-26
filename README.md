@@ -5,6 +5,7 @@ Most codes are for python3, most notebooks works on
 
 ### CycleGAN
 * CycleGAN-lasagne
+* CycleGAN-keras
 
 ### CycleGAN results
 <img src="img/cyclegan_58_11603.png" height=300 /> 
