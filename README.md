@@ -8,7 +8,7 @@ Most codes are for python3, most notebooks works on
 
 ### CycleGAN results
 <img src="img/cyclegan_58_11603.png" height=300 /> 
-Result after 3 hours and 58 epochs From top to bottom: Input, Fake, Recreate of the input.
+Result after 3 hours and 58 epochs on a GTX 1080. From top to bottom: Input, Fake, Recreate of the input.
 
 ### pix2pix
 * pix2pix-keras: pix2pix GAN Keras implementation
