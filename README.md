@@ -3,6 +3,9 @@
 
 Most codes are for python3, most notebooks works on 
 
+### CycleGAN
+* CycleGAN-lasagne
+
 ### pix2pix
 * pix2pix-keras: pix2pix GAN Keras implementation
 * pix2pix-lasagne: pix2pix GAN Lasagne implementation
