@@ -28,16 +28,16 @@ Validation result of  facades dataset after 150 epochs using resnet. From top to
 ### WGAN2 sample results
 * cifar10 dataset
 
-<img src="img/wgan2-cifar10.png" height="200" />
+<img src="img/wgan2-cifar10.png" height="100" />
 
 * cifar10 dataset with Auxillary classfier
 
-<img src="img/wgan2-ac-cifar10.png" height="600" />
+<img src="img/wgan2-ac-cifar10.png" height="400" />
 
 
 * anime face dataset
 
-<img src="img/wgan2-anime.png" height="800" />
+<img src="img/wgan2-anime.png" height="500" />
 
 
 
@@ -46,10 +46,10 @@ Validation result of  facades dataset after 150 epochs using resnet. From top to
 * mnist-infogan: InfoGAN Lasagne on MNIST dataset
 * mnist-infogan-paper-uniform: InfoGAN Lasagne on MNIST dataset (fllowing the paper implementation)
 ### InfoGAN sample results
-<img src="img/infogan-mnist.png" height="400" />
+<img src="img/infogan-mnist.png" height="300" />
 
 
 ### DCGAN
 * dcgan-lasagne: DCGAN in Lasagne
 ### DCGAN sample results
-<img src="img/dcgan-cifar10.png" height="400" />
+<img src="img/dcgan-cifar10.png" height="300" />
