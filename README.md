@@ -13,9 +13,7 @@ Result after 3 hours and 58 epochs on a GTX 1080. From top to bottom: Input, Fak
 
 <img src="img/cyclegan_face.png" height=300 /> 
 Face-off result. From top to bottom: Input, Fake, Recreate of the input.
-[![Youtube video](https://img.youtube.com/vi/Fea4kZq0oFQ/0.jpg)](https://www.youtube.com/watch?v=Fea4kZq0oFQ)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Fea4kZq0oFQ" frameborder="0" allowfullscreen></iframe>
+[youtube video](https://www.youtube.com/watch?v=Fea4kZq0oFQ)
 
 ### pix2pix
 * pix2pix-keras: pix2pix GAN Keras implementation
