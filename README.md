@@ -11,6 +11,10 @@ Most codes are for python3, most notebooks works on
 <img src="img/cyclegan_58_11603.png" height=300 /> 
 Result after 3 hours and 58 epochs on a GTX 1080. From top to bottom: Input, Fake, Recreate of the input.
 
+<img src="img/cyclegan_face.png" height=300 /> 
+Face-off result. From top to bottom: Input, Fake, Recreate of the input.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Fea4kZq0oFQ" frameborder="0" allowfullscreen></iframe>
+
 ### pix2pix
 * pix2pix-keras: pix2pix GAN Keras implementation
 * pix2pix-lasagne: pix2pix GAN Lasagne implementation
